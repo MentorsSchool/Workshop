@@ -1,8 +1,18 @@
+![](background.jpg)
+
+### 来た人は適当に前の3席に座ってください
+
+---
+
+![](background.jpg)
+
 # MentorsSchool説明会
 
 ^背景画像をセットする
 
 ---
+
+![](background.jpg)
 
 ## 今日の流れ
 
@@ -61,9 +71,7 @@ MentorsSchoolは、実際のサービス開発を通して自分のコードを�
 
 実際に提出したリクルーティングリポジトリ
 
-KodicというAPIを使った簡単な辞書アプリ
-
-https://github.com/Reyurnible/kodic
+[Kodic](https://github.com/Reyurnible/kodic)というAPIを使った簡単な辞書アプリ
 
 ![right fit](sample2.png)
 
@@ -118,6 +126,10 @@ https://github.com/Reyurnible/kodic
 
 ---
 
+![fit](schedules.jpeg)
+
+---
+
 ### ワークショップ
 
 **9月の第4週からスタート！！**
@@ -152,6 +164,8 @@ Life is Tech !の協賛企業を始め、多くの企業を呼んで行う予定
 ```
 
 ---
+
+![](background.jpg)
 
 ## 質問タイム
 

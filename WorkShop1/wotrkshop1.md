@@ -200,7 +200,7 @@ autoscale: true
 - 本は割と長め(当然分野による)
 
 ---
-![](output.jpg)
+![](information-output.jpg)
 ## [fit] 情報発信の方法
 
 ---

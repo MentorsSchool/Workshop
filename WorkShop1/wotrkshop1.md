@@ -124,6 +124,10 @@ autoscale: true
 
 ---
 
+![fit](cerial.png)
+
+---
+
 ![](sweets.jpg)
 # [fit] THINKING TIME
 

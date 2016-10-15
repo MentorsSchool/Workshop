@@ -1,5 +1,7 @@
 autoscale: true
 
+![](start.jpg)
+
 # [fit] Mentors School #1
 
 ---
@@ -101,11 +103,6 @@ autoscale: true
 
 ---
 
-![](sales.jpg)
-# [fit] 要するにエンジニアにも営業力が必要
-
----
-
 ![](sweets.jpg)
 # [fit] ACTIVITY
 
@@ -143,6 +140,11 @@ autoscale: true
 - 高いエンジニアを雇うには高いコストが必要
 - 必ずしもスキルで人を雇うとは限らない
 - 文章で伝えられる部分と、伝えられない部分を意識する
+
+---
+
+![](sales.jpg)
+# [fit] 要するにエンジニアにも営業力が必要
 
 ---
 

@@ -1,8 +1,6 @@
 autoscale: true
 
-![](start.jpg)
-
-# [fit] Mentors School #1
+![](title.png)
 
 ---
 
@@ -512,5 +510,3 @@ autoscale: true
 ## レビュータイム
 
 できた人から個別にレビューしていきます
-
----

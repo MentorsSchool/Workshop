@@ -44,7 +44,6 @@ autoscale: true
 
 ---
 
-
 ![](questions.jpg)
 # Q&A
 
@@ -254,12 +253,12 @@ autoscale: true
 ## コードレビューとは？
 - 自分のコードの評価を自分または他人から受けること
 - チーム開発における「コードレビュー」は、Pull Requestのレビューのことを指すことが多い
+- チーム開発では、githubを用いたPull Requestベースの開発が一般的になっている。
 
 ---
 
 ![](git_github.jpg)
 ## GitおよびGitHubについて
-- Git != GitHub
 - Gitについて
 - GitHubについて
 
@@ -282,12 +281,12 @@ autoscale: true
 ## GitHubについて
 - Gitを用いた開発のプラットフォームを提供するサービス
 - Gitにおけるリモートリポジトリ部分の提供をしている
-- issueやPullRequest(以下PR)など開発における便利な機能も提供している
+- issueやPullRequestなど開発における便利な機能も提供している
 
 ---
 
 ![](git_github.jpg)
-## PRとは
+## Pull Requestとは(以下PR)
 - githubが提供しているチーム開発のための便利機能
 - 新規機能や変更などの塊を表す
 - commitの塊
@@ -295,6 +294,15 @@ autoscale: true
 ---
 
 ![fit](pr_image.jpeg)
+
+---
+
+![](git_github.jpg)
+## チームでの開発の流れ
+- タスクに基づいてissueを作成する
+- issueを元にbranchを気る
+- Pull Requestを作成する
+- コードレビューをしてもらいマージする
 
 ---
 

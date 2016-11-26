@@ -4,6 +4,8 @@ autoscale: true
 
 ---
 
+![](background.png)
+
 ## 今日やること
 - セルフマネジメント
   - モチベーションの保ち方
@@ -15,9 +17,13 @@ autoscale: true
 
 ---
 
+![](motivation.jpeg)
+
 ## [fit]モチベーションの保ち方
 
 ---
+
+![](motivation.jpeg)
 
 ## モチベーションの保ち方
 
@@ -26,6 +32,8 @@ autoscale: true
 - 習慣化する
 
 ---
+
+![](motivation.jpeg)
 
 ### 目標を作る
 
@@ -36,6 +44,8 @@ autoscale: true
 
 ---
 
+![](goal.jpg)
+
 ### 目標を作る時の注意
 
 - 大きな目標から考え、小さな目標に分割をする
@@ -44,6 +54,8 @@ autoscale: true
 - 目標を達成した時の褒美を考えよう
 
 ---
+
+![](friend.jpg)
 
 ### 仲間を作る
 
@@ -58,6 +70,8 @@ autoscale: true
 
 ---
 
+![](rule.jpg)
+
 ### 習慣化する
 
 タスクをこなすタイミングにルールを設ける！
@@ -65,9 +79,13 @@ autoscale: true
 
 ---
 
+![](productivity.jpg)
+
 ## [fit]生産性の保ち方
 
 ---
+
+![](productivity.jpg)
 
 ## 生産性の保ち方
 
@@ -77,11 +95,15 @@ autoscale: true
 
 ---
 
+![](productivity.jpg)
+
 ### 現状の生産性を知る
 
 自分が1時間や1日という決められた時間の中で、どれだけの仕事を行うことができるのかを正確に知ることは非常に重要なことです。
 
 ---
+
+![](productivity.jpg)
 
 ### 雑念を排除する
 
@@ -89,6 +111,8 @@ autoscale: true
 今は、何をやらなければ行けないのかを明確にし、それに必要なもの以外は全て削ぎ落としましょう。
 
 ---
+
+![](plan.jpg)
 
 ### 計画を立てる
 
@@ -99,9 +123,13 @@ autoscale: true
 
 ---
 
+![](technique.jpg)
+
 ## [fit]実際の手法
 
 ---
+
+![](timer.jpg)
 
 ### ポモドーロ・テクニック
 
@@ -109,6 +137,8 @@ autoscale: true
 25分間の仕事と5分間の休憩のセットを1ポモドーロとしてタスクを行う手法です。
 
 ---
+
+![](timer.jpg)
 
 ### ポモドーロ・テクニックの詳細
 
@@ -123,6 +153,8 @@ autoscale: true
 
 ---
 
+![](timer.jpg)
+
 ### ポモドーロ・テクニックの有用性
 
 厳密にポモドーロ・テクニックをやるのはかなり難しい。
@@ -131,6 +163,8 @@ autoscale: true
 ただし、ポモドーロ・テクニックには以下の重要なポイントが含まれている
 
 ---
+
+![](timer.jpg)
 
 ### 重要なポイント
 
@@ -273,9 +307,13 @@ autoscale: true
 
 ---
 
+![](share.jpg)
+
 ## [fit]　チームでの技術共有
 
 ---
+
+![](share.jpg)
 
 ### 共有の目的
 
@@ -283,6 +321,8 @@ autoscale: true
 チームの中で新しい技術を使用する、選択することが可能になり、新しいメンバーが入りやすくなります。
 
 ---
+
+![](share.jpg)
 
 ### 何を共有するか
 
@@ -293,12 +333,16 @@ autoscale: true
 
 ---
 
+![](share.jpg)
+
 ### 共有の方法
 
 - QiitaTeamやDocBaseなどのドキュメント共有サービス
 - プレゼンテーション
 
 ---
+
+![](share.jpg)
 
 ### 重要なこと
 
@@ -447,6 +491,7 @@ autoscale: true
 
 ![](github.jpg)
 ## Activity
+
 1. cloneする(pullする)
 2. branchを作る
 3. README.mdを更新する
@@ -567,5 +612,3 @@ autoscale: true
 
 ![](questions.jpg)
 # Q&A
-
----
